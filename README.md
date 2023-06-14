@@ -1,14 +1,8 @@
 # olist-ml-models
 
-<img src="https://github.com/TeoMeWhy/olist-ml-models/blob/main/img/photo_2023-03-19_21-01-54.jpg?raw=true" width=450>
-
 Projeto de Machine Learning do início ao fim no contexto de um e-commerce.
 
 Este projeto é resultado de uma parceria entre o canal [Téo Me Why](https://www.twitch.tv/teomewhy) e o [Instituto Aaron Swartz](https://institutoasw.org/).
-
-Se inscreva [aqui](https://forms.gle/bXEdjsjYWt3K9euC7) para receber o certificado de partipação: [Formulário Docs](https://forms.gle/bXEdjsjYWt3K9euC7)
-
-## +12 horas de conteúdo gratuito sobre Machine Learning
 
 Nosso objetivo será, a priori, criar um modelo de Machine Learning para ajudar o negócio da empresa Olist. Dentre as possibilidades temos:
 
@@ -27,22 +21,7 @@ Nosso objetivo será, a priori, criar um modelo de Machine Learning para ajudar 
 
 ## Como vamos nos organizar?
 
-O projeto será 100% ao vivo na Twitch, canal [Téo Me Why](https://www.twitch.tv/teomewhy) de forma gratuita. Todo o desenvolvimento será realizado no Databricks, onde as pessoas `assinantes` do canal terão acesso a este Datalake para realizar seus próprios experimentos.
-
 Passaremos por todas etapas do ciclo analítico, desde ETL das fontes de dados, criação de `feature store`, criação da `ABT` (_Analytical Base Table_), treinamento dos algoritmos, implementação do algoritmo campeão para novas predições. Utilizaremos ainda o `MLFlow` para gestão de nossos modelos.
-
-### Cronograma
-
-| Dia | Data/Hora | Tema | Link |
-| :---: | :---: | --- | :---: |
-| 1 | 03/04/23 20hrs BR | Introdução à ML + Definição do problema | [:link:](https://www.twitch.tv/videos/1784362772) |
-| 2 | 04/04/23 20hrs BR | Brainstorm de variáveis + Criação Feature Store Pt. 1 | [:link:](https://www.twitch.tv/videos/1784988522) |
-| 3 | 05/04/23 20hrs BR | Criação Feature Store Pt. 2 | [:link:](https://www.twitch.tv/videos/1785891887) |
-| 4 | 06/04/23 20hrs BR | Criação das Safras | [:link:](https://www.twitch.tv/videos/1787450542) |
-| 5 | 07/04/23 20hrs BR | Criação da ABT | [:link:](https://www.twitch.tv/videos/1789854320) |
-| 6 | 10/04/23 20hrs BR | Teoria dos Algoritmos (Árvore e Regressão Linear e Logística) | [:link:](https://www.twitch.tv/videos/1790448831) |
-| 7 | 11/04/23 20hrs BR | Métricas de ajuste | [:link:](https://www.twitch.tv/videos/1792052442) |
-| 8 | 12/04/23 20hrs BR | Deploy com MLFlow | [:link:](https://www.twitch.tv/videos/1792476782) |
 
 ### Ementa
 
